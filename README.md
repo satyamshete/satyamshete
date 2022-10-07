@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **full stack web development (MERN stack)**
 
+- 👨‍💻 Interested in **Learning new technologies**
+
 - 📫 How to reach me **satyamshete99@gmail.com**
+
+- ⚡ Looking for **Entry level position as full stack web developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
