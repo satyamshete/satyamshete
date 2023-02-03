@@ -5,7 +5,7 @@
 
 - 👨‍💻 Interested in **Learning new technologies**
 
-- 📫 How to reach me **satyamshete99@gmail.com**
+- 📫 How to reach me **shetesatyam99@gmail.com**
 
 - ⚡ Looking for **Entry level position as full stack web developer**
 
