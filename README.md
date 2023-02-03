@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satyam Shete</h1>
 <h3 align="center">A passionate full stack developer developer from Pune</h3>
 
-- 🌱 I’m currently learning **full stack web development (MERN stack)**
+- 🌱 Currently learning **full stack web development (MERN stack)**
 
 - 👨‍💻 Interested in **Learning new technologies**
 
-- 📫 How to reach me **shetesatyam99@gmail.com**
+- 📫 To reach me **shetesatyam99@gmail.com**
 
 - ⚡ Looking for **Entry level position as full stack web developer**
 
